@@ -1,9 +1,5 @@
 #C# Console apps
 
-
-GeeksforGeeks – “Top 25 C Projects with Source Codes for 2025” 
-(Link)[https://www.geeksforgeeks.org/blogs/c-project-ideas-for-beginners/]
-
 These beginner-friendly C projects are practical and fun to implement:
 
 1. Todo List Manager – add, view, delete simple text tasks.
@@ -35,4 +31,7 @@ These beginner-friendly C projects are practical and fun to implement:
 14. Simple ATM Simulation – deposit, withdraw, balance check.
 
 15. Student Grade Calculator – input marks, output average & grade.
+
+GeeksforGeeks – “Top 25 C Projects with Source Codes for 2025” 
+(Link)[https://www.geeksforgeeks.org/blogs/c-project-ideas-for-beginners/]
 
