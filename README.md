@@ -35,3 +35,5 @@ These beginner-friendly C projects are practical and fun to implement:
 GeeksforGeeks – “Top 25 C Projects with Source Codes for 2025” 
 (Link)[https://www.geeksforgeeks.org/blogs/c-project-ideas-for-beginners/]
 
+(C# Interview questions)[https://www.toptal.com/c-sharp/interview-questions]
+
